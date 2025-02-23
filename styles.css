@@ -1,0 +1,41 @@
+.div{
+    border: 1px solid red;
+
+}
+
+.body{
+    background: #EBBBA2;
+}
+
+.fa-square-instagram{
+    color: rgb(221, 45, 192);
+}
+
+.container-feed{
+    max-width: 400px;
+    margin: auto;
+    background-color: #faebd7;
+
+}
+
+.post-header{
+    border: 1px solid rgb(110, 107, 107)
+    
+}
+
+.post-image{
+    border: none;
+}
+
+.post-body{
+    border: 1px solid rgb(110, 107, 107)
+}
+
+.post-icons{
+    border: 1px solid rgb(110, 107, 107)
+}
+
+.container-grid{
+    max-width: 1208px;
+    
+}
